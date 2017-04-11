@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<head/><log>
+<record>
+  <date>2016-11-23T16:06:30.449-0300</date>
+  <logger>MELISSA DINIZ GONCALVES</logger>
+  <level>FINE</level>
+  <message>File 115211394-MELISSA DINIZ GONCALVES.zip was received. It was sent by MELISSA DINIZ GONCALVES from IP 150.165.74.126</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-11-23T17:34:06.450-0300</date>
+  <logger>MELISSA DINIZ GONCALVES</logger>
+  <level>FINE</level>
+  <message>File 115211394-MELISSA DINIZ GONCALVES.zip was received. It was sent by MELISSA DINIZ GONCALVES from IP 150.165.74.126</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-11-23T23:03:39.023-0300</date>
+  <logger>MELISSA DINIZ GONCALVES</logger>
+  <level>FINE</level>
+  <message>File 115211394-MELISSA DINIZ GONCALVES.zip was received. It was sent by MELISSA DINIZ GONCALVES from IP 192.168.25.144</message>
+</record>
